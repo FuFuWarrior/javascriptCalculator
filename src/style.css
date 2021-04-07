@@ -35,7 +35,7 @@
     box-sizing: border-box;
     padding: 10px;
     font-size: 2rem;
-    background-color: #00ff44;
+    background-color: aqua;
     color: #000;
     text-align: right;
     border-top-left-radius: 7px;
@@ -73,6 +73,7 @@
   /* operator */
   .operator {
     background-color: #00ff44;
+    background-color: aqua;
     color: #000;
   }
   
